@@ -1,6 +1,6 @@
 # toys
 
-These are not production programs nor its production code.
+These are not production programs. This is not production code.
 
 Made entirely for fun.
 
